@@ -1,0 +1,14 @@
+=== Benchmark Log ===
+Timestamp       : 2026-03-30T20:39:49.082579
+Input file      : .\data\ad_data.csv
+File size       : 994.97 MB
+Total campaigns : 50
+Processed rows  : 26843544
+Skipped rows    : 0
+Peak memory     : 17.35 MB
+
+--- Timing Breakdown ---
+Stream & Aggregate            : 63.9852s
+Compute Metrics               : 0.0000s
+Rank & Write Output           : 0.0000s
+TOTAL                         : 63.9852s
